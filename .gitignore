@@ -3,3 +3,6 @@ public/vendor.js
 public/app.js
 coverage/
 build/
+
+.DS_Store
+lib/.DS_Store
